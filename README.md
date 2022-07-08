@@ -23,7 +23,7 @@ Paper: https://arxiv.org/abs/1811.08188
 
 |<img src='/imgs/Monocular Semantic Occupancy.jpg'>
 |:--:|
-| Figure 6: Bird-eye-view qualitative results for the first stage of the network. The blue part of the predicted masks corresponds to the limits of the camera’s field of view. GT stands for Ground Truth. |
+| Fig. 1. An illustration of the proposed variational encoder-decoder approach. From a single front-view RGB image, our system can predict a 2-D top-view semantic-metric occupancy grid map. |
 
 Paper: https://arxiv.org/abs/1804.02176
 
