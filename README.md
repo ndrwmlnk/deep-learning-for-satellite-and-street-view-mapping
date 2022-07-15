@@ -25,6 +25,13 @@
 |:--:|
 | Figure 3. Architecture overview. A front-end ResNet feature extractor generates image-based features, which are mapped to an orthographic representation via our proposed orthographic feature transform. The topdown network processes these features in the birds-eye-view space and at each location on the ground plane predicts a confidence score S, a position offset ∆pos, a dimension offset ∆dim and an angle vector ∆ang. |
 
+---
+
+📄 [**Unsupervised Learning of Depth and Ego-Motion from Video**](https://paperswithcode.com/paper/unsupervised-learning-of-depth-and-ego-motion-1)
+
+📄 [**Scene Representation Transformer**](https://srt-paper.github.io)
+
+📄 [**awesome-lane-detection**](https://github.com/amusi/awesome-lane-detection)
 
 ---
 Tarek  
