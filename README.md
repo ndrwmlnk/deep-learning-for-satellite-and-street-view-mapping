@@ -36,11 +36,11 @@
 ---
 Tarek  
 
-📄 [**NEAT: Neural Attention Fields for End-to-End Autonomous Driving**](https://openaccess.thecvf.com/content/ICCV2021/html/Chitta_NEAT_Neural_Attention_Fields_for_End-to-End_Autonomous_Driving_ICCV_2021_paper.html)
+T 📄 [**NEAT: Neural Attention Fields for End-to-End Autonomous Driving**](https://openaccess.thecvf.com/content/ICCV2021/html/Chitta_NEAT_Neural_Attention_Fields_for_End-to-End_Autonomous_Driving_ICCV_2021_paper.html)
 
-📄 [**Monocular 3D Vehicle Detection Using Uncalibrated Traffic Cameras through Homography**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9636384)
+C 📄 [**Monocular 3D Vehicle Detection Using Uncalibrated Traffic Cameras through Homography**](https://arxiv.org/abs/2103.15293)
 
-📄 [**Cross-view Transformers for real-time Map-view Semantic Segmentation**](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Cross-View_Transformers_for_Real-Time_Map-View_Semantic_Segmentation_CVPR_2022_paper.pdf)
+F 📄 [**Cross-view Transformers for real-time Map-view Semantic Segmentation**](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Cross-View_Transformers_for_Real-Time_Map-View_Semantic_Segmentation_CVPR_2022_paper.pdf)
 
 ---
 Felix
