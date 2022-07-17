@@ -29,9 +29,15 @@
 
 📄 [**Unsupervised Learning of Depth and Ego-Motion from Video**](https://paperswithcode.com/paper/unsupervised-learning-of-depth-and-ego-motion-1)
 
-📄 [**Scene Representation Transformer**](https://srt-paper.github.io)
-
 📄 [**awesome-lane-detection**](https://github.com/amusi/awesome-lane-detection)
+
+
+---
+
+📄 [**Scene Representation Transformer: Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations**](https://srt-paper.github.io)  
+
+📄 [**TransformerFusion: Monocular RGB SceneReconstruction using Transformers**](https://arxiv.org/abs/2107.02191)  
+📺 https://www.youtube.com/watch?v=ys-LRewgNYs  
 
 ---
 Tarek  
