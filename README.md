@@ -34,10 +34,15 @@
 
 ---
 
-📄 [**Scene Representation Transformer: Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations**](https://srt-paper.github.io)  
+📄 [**Scene Representation Transformer: Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations**](https://arxiv.org/abs/2111.13152)  
+🌐 https://srt-paper.github.io
 
 📄 [**TransformerFusion: Monocular RGB SceneReconstruction using Transformers**](https://arxiv.org/abs/2107.02191)  
 📺 https://www.youtube.com/watch?v=ys-LRewgNYs  
+
+📄 [**Look Outside the Room: Synthesizing A Consistent Long-Term 3D Scene Video from A Single Image**](https://arxiv.org/abs/2203.09457)  
+🌐 https://xrenaa.github.io/look-outside-room/  
+📺 https://youtu.be/eSftXilv21s  
 
 ---
 Tarek  
@@ -53,6 +58,4 @@ Felix
 
 📄  
 📄  
-📄  
-📄  
-
+📄 
