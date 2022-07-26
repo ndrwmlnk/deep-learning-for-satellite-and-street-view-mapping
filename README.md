@@ -115,6 +115,14 @@
 
 ---
 
+📄 [**BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation**](https://arxiv.org/abs/2205.13542)  
+🌐 https://bevfusion.mit.edu  
+🌐 https://github.com/mit-han-lab/bevfusion  
+
+<img src='https://github.com/mit-han-lab/bevfusion/raw/main/assets/demo.gif'>
+
+---
+
 ## Other workds
 
 🌐 [**paperswithcode.com: Bird's-Eye View Semantic Segmentation**](https://paperswithcode.com/task/bird-s-eye-view-semantic-segmentation/codeless)  
