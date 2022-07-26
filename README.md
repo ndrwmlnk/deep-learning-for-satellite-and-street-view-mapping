@@ -126,7 +126,7 @@
 📄 [**Efficient and Robust 2D-to-BEV Representation Learning via Geometry-guided Kernel Transformer**](https://arxiv.org/abs/2206.04584)  
 🌐 https://github.com/hustvl/GKT  
 
-<img src='https://github.com/mit-han-lab/bevfusion/raw/main/assets/demo.gif'>
+<img src='/imgs/2D-to-BEV.jpg'>
 
 ---
 
