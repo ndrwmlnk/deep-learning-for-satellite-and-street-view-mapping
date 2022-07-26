@@ -2,27 +2,29 @@
 
 ---
 
-📄 [**Cross-view Transformers for real-time Map-view Semantic Segmentation**](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Cross-View_Transformers_for_Real-Time_Map-View_Semantic_Segmentation_CVPR_2022_paper.pdf)
+📄 [**Cross-view Transformers for real-time Map-view Semantic Segmentation**](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Cross-View_Transformers_for_Real-Time_Map-View_Semantic_Segmentation_CVPR_2022_paper.pdf)  
 🌐 https://github.com/bradyz/cross_view_transformers
 
-<img src='https://raw.githubusercontent.com/bradyz/cross_view_transformers/master/docs/assets/predictions.gif'>
-<img src='https://raw.githubusercontent.com/bradyz/cross_view_transformers/master/docs/assets/map.gif'>
+<img src='https://raw.githubusercontent.com/bradyz/cross_view_transformers/master/docs/assets/predictions.gif' width="50%">
+<img src='https://raw.githubusercontent.com/bradyz/cross_view_transformers/master/docs/assets/map.gif' width="50%">
 
 ---
 
 📄 [**NEAT: Neural Attention Fields for End-to-End Autonomous Driving**](https://openaccess.thecvf.com/content/ICCV2021/html/Chitta_NEAT_Neural_Attention_Fields_for_End-to-End_Autonomous_Driving_ICCV_2021_paper.html)  
-🌐 https://github.com/autonomousvision/neat
+🌐 https://github.com/autonomousvision/neat  
+📺 https://youtu.be/gtO-ghjKkRs
 
 <img src='https://github.com/autonomousvision/neat/raw/main/neat/assets/neat_clip.GIF'>
 
 ---
 
 📄 [**Driving among Flatmobiles: Bird-Eye-View occupancy grids from a monocular camera for holistic trajectory planning**](https://arxiv.org/abs/2008.04047)  
-📺 Video: https://www.youtube.com/watch?v=ys-LRewgNYs  
+📺 https://www.youtube.com/watch?v=ys-LRewgNYs  
 
 |<img src='/imgs/Driving among Flatmobiles.jpg'>
 |:--:|
-| Figure 6: Bird-eye-view qualitative results for the first stage of the network. The blue part of the predicted masks corresponds to the limits of the camera’s field of view. GT stands for Ground Truth. |
+| Figure 6: Bird-eye-view qualitative results for the first stage of the network. The blue part of the predicted masks corresponds to the limits of the camera’s field of view. GT stands for Ground Truth. |![image](https://user-images.githubusercontent.com/22514465/180946369-a6d475d1-2a21-43e2-bcb5-4445f4e98eab.jpeg)
+
 
 ---
 
@@ -70,7 +72,7 @@
 🌐 https://xrenaa.github.io/look-outside-room/  
 📺 https://youtu.be/eSftXilv21s  
 
-<img src='https://xrenaa.github.io/look-outside-room/static/images/method.png'>
+<img src='https://xrenaa.github.io/look-outside-room/static/images/method.png' width="70%">
 
 ---
 
