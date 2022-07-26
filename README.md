@@ -89,7 +89,7 @@
 🌐 https://github.com/nv-tlabs/lift-splat-shoot  
 📺 https://youtu.be/oL5ISk6BnDE
 
-<img src='https://nv-tlabs.github.io/lift-splat-shoot/imgs/nusc.gif'>
+<img src='/imgs/Lift, Splat, Shoot.gif'>
 
 ---
 
