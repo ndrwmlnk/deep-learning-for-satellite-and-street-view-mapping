@@ -10,7 +10,7 @@
 
 ---
 
-📄 [**NEAT: Neural Attention Fields for End-to-End Autonomous Driving**](https://openaccess.thecvf.com/content/ICCV2021/html/Chitta_NEAT_Neural_Attention_Fields_for_End-to-End_Autonomous_Driving_ICCV_2021_paper.html)
+📄 [**NEAT: Neural Attention Fields for End-to-End Autonomous Driving**](https://openaccess.thecvf.com/content/ICCV2021/html/Chitta_NEAT_Neural_Attention_Fields_for_End-to-End_Autonomous_Driving_ICCV_2021_paper.html)  
 🌐 https://github.com/autonomousvision/neat
 
 <img src='https://github.com/autonomousvision/neat/raw/main/neat/assets/neat_clip.GIF'>
@@ -42,7 +42,8 @@
 
 ---
 
-📄 [**Monocular 3D Vehicle Detection Using Uncalibrated Traffic Cameras through Homography**](https://arxiv.org/abs/2103.15293)
+📄 [**Monocular 3D Vehicle Detection Using Uncalibrated Traffic Cameras through Homography**](https://arxiv.org/abs/2103.15293)  
+🌐 https://github.com/minghanz/trafcam_3d
 
 |<img src='/imgs/Monocular 3D Vehicle Detection Using Uncalibrated Traffic Cameras through Homography.jpg'>
 |:--:|
@@ -51,21 +52,25 @@
 ---
 
 📄 [**Unsupervised Learning of Depth and Ego-Motion from Video**](https://paperswithcode.com/paper/unsupervised-learning-of-depth-and-ego-motion-1)
+🌐 https://github.com/tinghuiz/SfMLearner
+📺 https://youtu.be/HWu39YkGKvI
 
-📄 [**awesome-lane-detection**](https://github.com/amusi/awesome-lane-detection)
-
+<img src='https://github.com/tinghuiz/SfMLearner/raw/master/misc/cityscapes_sample_results.gif'>
 
 ---
 
 📄 [**Scene Representation Transformer: Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations**](https://arxiv.org/abs/2111.13152)  
 🌐 https://srt-paper.github.io
 
-📄 [**TransformerFusion: Monocular RGB SceneReconstruction using Transformers**](https://arxiv.org/abs/2107.02191)  
-📺 https://www.youtube.com/watch?v=ys-LRewgNYs  
+<img src='https://srt-paper.github.io/data/streetview/input1.png'>
+
+---
 
 📄 [**Look Outside the Room: Synthesizing A Consistent Long-Term 3D Scene Video from A Single Image**](https://arxiv.org/abs/2203.09457)  
 🌐 https://xrenaa.github.io/look-outside-room/  
 📺 https://youtu.be/eSftXilv21s  
+
+<img src='https://xrenaa.github.io/look-outside-room/static/images/method.png'>
 
 ---
 
@@ -76,13 +81,13 @@
 | Figure 2: MP3 predicts probabilistic scene representations that are leveraged in motion planning as interpretable cost functions. |
 
 ---
-Felix
 
-📄  
-📄  
-📄 
+## Other papers
 
----
-📄 [**Monocular 3D Vehicle Detection Using Uncalibrated Traffic Cameras through Homography**](https://ieeexplore.ieee.org/iel7/6979/4358928/09714212.pdf)
+📄 [**awesome-lane-detection**](https://github.com/amusi/awesome-lane-detection)
+
+📄 [**TransformerFusion: Monocular RGB SceneReconstruction using Transformers**](https://arxiv.org/abs/2107.02191)  
+📺 https://www.youtube.com/watch?v=ys-LRewgNYs  
 
 📄 [**Calibration of Inverse Perspective Mapping from Different Road Surface Images**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9612531)
+
