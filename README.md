@@ -123,6 +123,13 @@
 
 ---
 
+📄 [**Efficient and Robust 2D-to-BEV Representation Learning via Geometry-guided Kernel Transformer**](https://arxiv.org/abs/2206.04584)  
+🌐 https://github.com/hustvl/GKT  
+
+<img src='https://github.com/mit-han-lab/bevfusion/raw/main/assets/demo.gif'>
+
+---
+
 ## Other workds
 
 🌐 [**paperswithcode.com: Bird's-Eye View Semantic Segmentation**](https://paperswithcode.com/task/bird-s-eye-view-semantic-segmentation/codeless)  
