@@ -101,6 +101,14 @@
 
 ---
 
+📄 [**Trans4Map: Revisiting Holistic Top-down Mapping from Egocentric Images to Allocentric Semantics with Vision Transformers**](https://arxiv.org/abs/2207.06205)  
+🌐 https://paperswithcode.com/paper/trans4map-revisiting-holistic-top-down  
+🌐 https://github.com/jamycheung/trans4map  
+
+<img src='https://github.com/jamycheung/Trans4Map/raw/main/fig_trans4map.png' width="70%">
+
+---
+
 ## Other papers
 
 📄 [**awesome-lane-detection**](https://github.com/amusi/awesome-lane-detection)
