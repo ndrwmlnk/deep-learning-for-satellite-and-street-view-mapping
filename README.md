@@ -132,6 +132,8 @@
 
 ## Other workds
 
+🌐 [**Map Track – CARLA**](https://leaderboard.carla.org/leaderboard/)  
+
 🌐 [**paperswithcode.com: Bird's-Eye View Semantic Segmentation**](https://paperswithcode.com/task/bird-s-eye-view-semantic-segmentation/codeless)  
 
 📄 [**awesome-lane-detection**](https://github.com/amusi/awesome-lane-detection)
