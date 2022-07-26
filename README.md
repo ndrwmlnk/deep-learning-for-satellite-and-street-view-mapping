@@ -69,6 +69,12 @@
 
 ---
 
+📄 [**MP3: A Unified Model to Map, Perceive, Predict and Plan**](https://arxiv.org/abs/2101.06806)  
+
+|<img src='/imgs/MP3 - A Unified Model to Map, Perceive, Predict and Plan.jpg'>
+|:--:|
+| Figure 2: MP3 predicts probabilistic scene representations that are leveraged in motion planning as interpretable cost functions. |
+
 ---
 Felix
 
