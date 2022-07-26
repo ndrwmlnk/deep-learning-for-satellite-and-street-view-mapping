@@ -109,7 +109,15 @@
 
 ---
 
-## Other papers
+📄 [**LaRa: Latents and Rays for Multi-Camera Bird's-Eye-View Semantic Segmentation**](https://arxiv.org/abs/2206.13294)  
+
+<img src='/imgs/LaRa.jpg'>
+
+---
+
+## Other workds
+
+🌐 [**paperswithcode.com: Bird's-Eye View Semantic Segmentation**](https://paperswithcode.com/task/bird-s-eye-view-semantic-segmentation/codeless)  
 
 📄 [**awesome-lane-detection**](https://github.com/amusi/awesome-lane-detection)
 
