@@ -84,6 +84,15 @@
 
 ---
 
+📄 [**Lift, Splat, Shoot: Encoding Images From Arbitrary Camera Rigs by Implicitly Unprojecting to 3D**](https://arxiv.org/abs/2008.05711)  
+🌐 https://nv-tlabs.github.io/lift-splat-shoot/  
+🌐 https://github.com/nv-tlabs/lift-splat-shoot  
+📺 https://youtu.be/oL5ISk6BnDE
+
+<img src='https://nv-tlabs.github.io/lift-splat-shoot/imgs/nusc.gif'>
+
+---
+
 ## Other papers
 
 📄 [**awesome-lane-detection**](https://github.com/amusi/awesome-lane-detection)
