@@ -93,6 +93,14 @@
 
 ---
 
+📄 [**VectorMapNet: End-to-end Vectorized HD Map Learning**](https://arxiv.org/abs/2206.08920)  
+🌐 https://tsinghua-mars-lab.github.io/vectormapnet/  
+🌐 https://github.com/Mrmoore98/VectorMapNet_code  
+
+<img src='https://tsinghua-mars-lab.github.io/vectormapnet/images/VectorMapNet_Pipelinex2.gif' width="70%">
+
+---
+
 ## Other papers
 
 📄 [**awesome-lane-detection**](https://github.com/amusi/awesome-lane-detection)
