@@ -3,7 +3,8 @@
 ---
 
 📄 [**Cross-view Transformers for real-time Map-view Semantic Segmentation**](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Cross-View_Transformers_for_Real-Time_Map-View_Semantic_Segmentation_CVPR_2022_paper.pdf)  
-🌐 https://github.com/bradyz/cross_view_transformers
+✅ Code implementation available  
+🌐 https://github.com/bradyz/cross_view_transformers  
 
 <img src='https://raw.githubusercontent.com/bradyz/cross_view_transformers/master/docs/assets/predictions.gif' width="50%">
 <img src='https://raw.githubusercontent.com/bradyz/cross_view_transformers/master/docs/assets/map.gif' width="50%">
