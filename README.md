@@ -141,9 +141,9 @@
 
 ---
 
-📄 [**Unsupervised Learning of Depth and Ego-Motion from Video**](https://paperswithcode.com/paper/unsupervised-learning-of-depth-and-ego-motion-1)
-🌐 https://github.com/tinghuiz/SfMLearner
-📺 https://youtu.be/HWu39YkGKvI
+📄 [**Unsupervised Learning of Depth and Ego-Motion from Video**](https://paperswithcode.com/paper/unsupervised-learning-of-depth-and-ego-motion-1)  
+🌐 https://github.com/tinghuiz/SfMLearner  
+📺 https://youtu.be/HWu39YkGKvI  
 
 <img src='https://github.com/tinghuiz/SfMLearner/raw/master/misc/cityscapes_sample_results.gif'>
 
