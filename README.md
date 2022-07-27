@@ -62,7 +62,9 @@
 ---
 
 📄 [**Scene Representation Transformer: Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations**](https://arxiv.org/abs/2111.13152)  
+✅ Code implementation available  
 🌐 https://srt-paper.github.io
+🌐 https://github.com/stelzner/srt
 
 <img src='https://srt-paper.github.io/data/streetview/input1.png'>
 
