@@ -123,6 +123,13 @@
 
 ---
 
+📄 [**ViT-BEVSeg: A Hierarchical Transformer Network for Monocular Birds-Eye-View Segmentation**](https://arxiv.org/abs/2205.15667)  
+🌐 https://github.com/robotvisionmu/ViT-BEVSeg  
+
+<img src='/imgs/ViT-BEVSeg.jpg'>
+
+---
+
 📄 [**Efficient and Robust 2D-to-BEV Representation Learning via Geometry-guided Kernel Transformer**](https://arxiv.org/abs/2206.04584)  
 🌐 https://github.com/hustvl/GKT  
 
