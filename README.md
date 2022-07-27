@@ -55,6 +55,7 @@
 ---
 
 📄 [**FIERY: Future Instance Prediction in Bird's-Eye View from Surround Monocular Cameras**](https://arxiv.org/abs/2008.04047)  
+✅ Code implementation available  
 🌐 https://wayve.ai/blog/fiery-future-instance-prediction-birds-eye-view/  
 🌐 https://github.com/wayveai/fiery  
 
