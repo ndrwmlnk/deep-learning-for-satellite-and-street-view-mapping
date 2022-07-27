@@ -132,6 +132,11 @@
 
 ## Datasets
 
+📄 [**Mapillary**](https://arxiv.org/abs/1909.04422)  
+🌐 https://research.mapillary.com  
+🌐 https://www.mapillary.com/datasets  
+📺 https://www.youtube.com/c/Mapillary  
+
 📄 [**nuScenes**](https://arxiv.org/abs/1903.11027)  
 🌐 https://nuscenes.org/nuscenes  
 📺 https://youtu.be/4gkyUWSZUkg
