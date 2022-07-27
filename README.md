@@ -53,11 +53,11 @@
 
 ---
 
-📄 [**Unsupervised Learning of Depth and Ego-Motion from Video**](https://paperswithcode.com/paper/unsupervised-learning-of-depth-and-ego-motion-1)
-🌐 https://github.com/tinghuiz/SfMLearner
-📺 https://youtu.be/HWu39YkGKvI
+📄 [**FIERY: Future Instance Prediction in Bird's-Eye View from Surround Monocular Cameras**](https://arxiv.org/abs/2008.04047)
+🌐 https://wayve.ai/blog/fiery-future-instance-prediction-birds-eye-view/  
+🌐 https://github.com/wayveai/fiery  
 
-<img src='https://github.com/tinghuiz/SfMLearner/raw/master/misc/cityscapes_sample_results.gif'>
+<img src='https://cdn.sanity.io/images/rmgve84j/production/a12b28effdf77bde0c27c22d01479a57ed972bfc-924x717.gif' width="70%">
 
 ---
 
@@ -127,6 +127,14 @@
 🌐 https://github.com/hustvl/GKT  
 
 <img src='/imgs/2D-to-BEV.jpg'>
+
+---
+
+📄 [**Unsupervised Learning of Depth and Ego-Motion from Video**](https://paperswithcode.com/paper/unsupervised-learning-of-depth-and-ego-motion-1)
+🌐 https://github.com/tinghuiz/SfMLearner
+📺 https://youtu.be/HWu39YkGKvI
+
+<img src='https://github.com/tinghuiz/SfMLearner/raw/master/misc/cityscapes_sample_results.gif'>
 
 ---
 
