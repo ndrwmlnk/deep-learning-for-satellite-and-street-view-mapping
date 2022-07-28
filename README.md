@@ -81,7 +81,8 @@
 ---
 
 📄 [**MP3: A Unified Model to Map, Perceive, Predict and Plan**](https://arxiv.org/abs/2101.06806)  
-⛔ No code implementation.
+⛔ No code implementation  
+🌐 https://www.cs.toronto.edu/~sergio/publication/mp3/
 
 |<img src='/imgs/MP3 - A Unified Model to Map, Perceive, Predict and Plan.jpg'>
 |:--:|
