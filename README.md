@@ -164,6 +164,15 @@
 
 ---
 
+## Diffusion Modeling
+
+[**Flexible Diffusion Modeling of Long Videos**](https://arxiv.org/abs/2205.11495)  
+🌐 https://plai.cs.ubc.ca/2022/05/20/flexible-diffusion-modeling-of-long-videos/
+
+<img src='/imgs/Flexible Diffusion Modeling of Long Videos.gif'>
+
+---
+
 ## Other workds
 
 🌐 [**Map Track – CARLA**](https://leaderboard.carla.org/leaderboard/)  
