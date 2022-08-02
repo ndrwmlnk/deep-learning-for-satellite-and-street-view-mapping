@@ -173,6 +173,14 @@
 
 ---
 
+## Inpainting
+
+[**Plane-Based Multi-View Inpainting for Image-Based Rendering in Large Scenes**](https://dl.acm.org/doi/pdf/10.1145/3190834.3190846)  
+
+<img src='/imgs/Plane-Based Multi-View Inpainting.jpg'>
+
+---
+
 ## Other workds
 
 🌐 [**Map Track – CARLA**](https://leaderboard.carla.org/leaderboard/)  
