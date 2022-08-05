@@ -162,10 +162,9 @@
 🌐 https://nuscenes.org/nuscenes  
 📺 https://youtu.be/4gkyUWSZUkg
 
-<img src='/imgs/AVDatasets.jpg'>
+|<img src='/imgs/AVDatasets.jpg'>
 |:--:|
 | 📄 [**nuScenes**](https://arxiv.org/abs/1903.11027)  Table 1. AV dataset comparison. The top part of the table indicates datasets without range data. The middle and lower parts indicate datasets (not publications) with range data released until and after the initial release of this dataset. |
-
 
 ---
 
