@@ -45,6 +45,12 @@
 
 ---
 
+📄 [**Lifting 2D Object Detection to 3D: Geometric Approach in Bird-Eye-View**](https://link.springer.com/content/pdf/10.1007/978-3-031-09076-9.pdf)
+
+<img src='/imgs/Lifting 2D Object Detection to 3D.jpg'>
+
+---
+
 📄 [**Monocular 3D Vehicle Detection Using Uncalibrated Traffic Cameras through Homography**](https://arxiv.org/abs/2103.15293)  
 🌐 https://github.com/minghanz/trafcam_3d
 
