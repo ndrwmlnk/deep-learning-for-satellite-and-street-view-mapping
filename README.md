@@ -66,6 +66,12 @@
 
 ---
 
+📄 [**Calibration of Inverse Perspective Mapping from Different Road Surface Images**](https://ieeexplore.ieee.org/iel7/9612426/9612427/09612531.pdf?casa_token=pDoWxqx7yhYAAAAA:Hjp2THq3lyzAKKAW2IeErBnNgewpYbtOhNtQJEqZbtSaMmF73n-UFjrLU2-eCGcbs7nt-sRY2gTc)
+
+<img src='/imgs/Calibration of Inverse Perspective Mapping from Different Road Surface Images.jpg'>
+
+---
+
 📄 [**FIERY: Future Instance Prediction in Bird's-Eye View from Surround Monocular Cameras**](https://arxiv.org/abs/2008.04047)  
 ✅ Code implementation available  
 🌐 https://wayve.ai/blog/fiery-future-instance-prediction-birds-eye-view/  
