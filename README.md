@@ -51,6 +51,12 @@
 
 ---
 
+📄 [**Monocular Vehicle 3D Bounding Box Estimation Using Homograhy and Geometry in Traffic Scene**](https://ieeexplore.ieee.org/iel7/9745891/9746004/09747512.pdf?casa_token=KSQXdckncKIAAAAA:mTF05HcUXoYK0BNUI0pgRWwHBsjtZJfVGvPggN6G-oyGCWFI80wHbvC_2Ab7nv0jjDJ30WFv1pB1)
+
+<img src='/imgs/Monocular Vehicle 3D Bounding Box Estimation Using Homograhy and Geometry in Traffic Scene.jpg'>
+
+---
+
 📄 [**Monocular 3D Vehicle Detection Using Uncalibrated Traffic Cameras through Homography**](https://arxiv.org/abs/2103.15293)  
 🌐 https://github.com/minghanz/trafcam_3d
 
