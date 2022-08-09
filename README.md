@@ -169,6 +169,12 @@
 
 ---
 
+📄 [**Self-Supervised Drivable Area and Road Anomaly Segmentation Using RGB-D Data For Robotic Wheelchairs**](https://arxiv.org/abs/2007.05950)  
+
+<img src='/imgs/Self-Supervised Drivable Area and Road Anomaly Segmentation.jpg'>
+
+---
+
 ## Datasets
 
 📄 [**Mapillary**](https://arxiv.org/abs/1909.04422)  
