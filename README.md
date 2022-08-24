@@ -19,6 +19,13 @@
 
 ---
 
+📄 [**TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving**](https://arxiv.org/abs/2205.15997)  
+🌐 https://github.com/autonomousvision/transfuser  
+
+<img src='https://github.com/autonomousvision/transfuser/raw/2022/figures/demo.gif'>
+
+---
+
 📄 [**Driving among Flatmobiles: Bird-Eye-View occupancy grids from a monocular camera for holistic trajectory planning**](https://arxiv.org/abs/2008.04047)  
 📺 https://www.youtube.com/watch?v=ys-LRewgNYs  
 
