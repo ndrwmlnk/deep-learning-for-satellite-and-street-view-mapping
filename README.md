@@ -79,6 +79,12 @@
 
 ---
 
+📄 [**Lanelets: Efficient Map Representation for Autonomous Driving**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6856487&casa_token=bHOhmCWxnZgAAAAA:vNpSYDCYRk8aVw2rzmGpgo3egiAqF_TxCuVFnCMlK-zVwFVZAxT71ysK5Phn9yIJSnxsW2vadbTOag)
+
+<img src='/imgs/Lanelets - Efficient Map Representation for Autonomous Driving_1280.jpg'>
+
+---
+
 📄 [**FIERY: Future Instance Prediction in Bird's-Eye View from Surround Monocular Cameras**](https://arxiv.org/abs/2008.04047)  
 ✅ Code implementation available  
 🌐 https://wayve.ai/blog/fiery-future-instance-prediction-birds-eye-view/  
@@ -226,8 +232,6 @@
 
 📄 [**TransformerFusion: Monocular RGB SceneReconstruction using Transformers**](https://arxiv.org/abs/2107.02191)  
 📺 https://www.youtube.com/watch?v=ys-LRewgNYs  
-
-📄 [**Calibration of Inverse Perspective Mapping from Different Road Surface Images**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9612531)
 
 ---
 
