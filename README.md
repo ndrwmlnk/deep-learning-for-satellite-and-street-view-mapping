@@ -235,6 +235,12 @@
 
 ---
 
+## Surveys
+
+[**Vision-Centric BEV Perception: A Survey**](https://arxiv.org/pdf/2208.02797.pdf)  
+
+---
+
 ## Companies
 
 https://www.mapbox.com
