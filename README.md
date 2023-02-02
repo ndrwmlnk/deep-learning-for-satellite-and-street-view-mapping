@@ -233,6 +233,8 @@
 📄 [**TransformerFusion: Monocular RGB SceneReconstruction using Transformers**](https://arxiv.org/abs/2107.02191)  
 📺 https://www.youtube.com/watch?v=ys-LRewgNYs  
 
+📄 [**Homography Estimation: From Geometry to Deep Learning**](https://eprints.qut.edu.au/134132/1/Rui_Zeng_Thesis.pdf)  
+
 ---
 
 ## Surveys
