@@ -242,6 +242,7 @@
 [**Vision-Centric BEV Perception: A Survey**](https://arxiv.org/abs/2208.02797)  
 
 [**Delving into the Devils of Bird's-eye-view Perception: A Review, Evaluation and Recipe**](https://arxiv.org/abs/2209.05324)  
+[[Github](https://github.com/OpenPerceptionX/BEVPerception-Survey-Recipe)]  
 
 ---
 
